@@ -4,7 +4,7 @@
 
 ## What is ETS?
 
-Ethereum Tag Service (ETS) is an experimental EVM based content tagging service, aimed at Web3 developers, running in alpha/testnet phase on the Polygon Blockchain.
+Ethereum Tag Service (ETS) is an experimental EVM based content tagging service, aimed at Web3 developers, running in alpha/testnet phase.
 
 In ETS, tags, content tagging & tagging data are fully composable units & services. This treatment is intended to reduce infrastructure, preserve data integrity and increase reach & engagement for the projects that consume the service.
 
